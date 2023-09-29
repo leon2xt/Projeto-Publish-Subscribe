@@ -1,8 +1,3 @@
-
-# Projeto Publish Subscriber
-
-Projeto criado com a intenção de construir um sistema de Publish e Subscriber utilizando o Redis.
-
 # Projeto Publish Subscriber
 
 Projeto criado com a intenção de construir um sistema de Publish e Subscriber utilizando o Redis.
